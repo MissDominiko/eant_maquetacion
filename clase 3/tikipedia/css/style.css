@@ -1,0 +1,96 @@
+
+
+body {
+   margin: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-image: url("../img/vengadores3.jpg");
+background-repeat: no-repeat;
+background-size: cover ;
+
+}
+
+
+h1 {
+color: black;
+font-family: sans-serif;
+font-size: 40px;
+text-align: center;
+
+}
+
+div {
+margin-top: 50px;
+margin-left: 100px;
+margin-right: 100px;
+text-align: justify;
+
+
+}
+
+p {
+    color:white;
+    font-family: sans-serif;
+    text-align: center;
+    text-align: justify;
+    line-height: 200%;
+    margin: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+   
+
+
+}
+
+#titulo-principal {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+img {
+    max-width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo-principal {
+    width: 245px;
+    display: block;
+    margin: auto;
+
+    }
+
+
+    /*CAJAS FLOTANTES*/
+
+    #menu {
+        float: left;
+       /*width: 30%;
+       padding: 10px;
+       box-sizing: border-box;
+       background-color: violet;
+              */
+
+
+    }
+
+
+    #contenido {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        float: right;
+        padding: 5px;
+        box-sizing: border-box;
+        background-color: grey;
+        
+        
+    
+        
+    
+    }
