@@ -19,10 +19,11 @@ text-align: center;
 }
 
 div {
-margin-top: 50px;
+margin-top: 10px;
 margin-left: 100px;
 margin-right: 100px;
 text-align: justify;
+background-color: #80808038;
 
 
 }
@@ -90,7 +91,49 @@ img {
         background-color: grey;
         
         
-    
         
     
+    }
+
+    .ironman {
+        background-color:  #fff !important;
+        background-image: none;
+        width: 100%;
+        
+    }
+
+    .logo {
+        text-align: center;
+        background-color: white;
+    }
+
+    .ironman p {
+    color: black;
+
+    }
+
+    #contenedor {
+        margin: 50px;
+        padding: 80px;
+        background-color: white;
+
+    }
+    .ironman h1{
+        margin: 10px;
+        
+
+
+       }
+
+    .ironman h2 {
+     text-align: center;
+     margin: 0%;
+    }
+
+    .ironman a {
+        text-align: center;
+        border: 2px outset;
+        border-radius: 5px 10px;
+
+
     }
